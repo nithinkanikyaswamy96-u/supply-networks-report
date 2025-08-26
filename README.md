@@ -51,7 +51,7 @@
 
 ## 📑 Reports
 
-- [📥 Supply Networks Summary Report (PDF)](docs/reports/SN_WS23-24_Kanikyaswamy_SummaryReport.pdf)  
+- [📥 Supply Networks Summary Report (PDF)](docs/reports/SN WS23-24 Kanikyaswamy 244669 Summary Report.pdf)  
 - [📥 Toyota Case Study Presentation (PDF)](docs/reports/Presentation_WS23-24_ToyotaCase.pdf)  
 
 ---
